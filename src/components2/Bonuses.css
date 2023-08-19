@@ -1,0 +1,54 @@
+.Bonus img{
+   width: 30px;  
+   height: 30px;
+   
+}
+
+.Bonus{
+    margin-top: -40%;
+    border: 1px solid #ccc; 
+    padding: 20px; 
+    margin-left: 40px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Dim box shadow */
+    max-width: 200px;
+}
+
+.Bonus > div{
+    border-bottom: 1px solid #ccc; /* Add underline */
+    padding-bottom: 30px; /* Add spacing between items */
+    padding-top: 10px;
+    margin-bottom: 10px; /* Add margin between items */
+
+}
+.Bot{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+
+}
+
+.Tot{
+    display: flex;
+    flex-direction: column;
+    font-size: small;
+    
+}
+
+.Tot p{
+    font-size: small;
+}
+
+.span{
+    color: grey;
+    margin-top: -10px;
+
+}
+
+.furn{
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 19%;
+    height: 350px;
+}
+ 

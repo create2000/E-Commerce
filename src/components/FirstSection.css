@@ -1,0 +1,139 @@
+*{
+    font-family:'Roboto', arial, helvetica, sans-serif
+}
+
+.First-row{
+    float: right;
+    margin-right: 20px;
+}
+
+.sign-up{
+    float: right;
+    margin-left: 30%;
+}
+
+.First-row-par{
+    margin-left: 30px;
+}
+
+.arrow{
+    font-size: 10px;
+    line-height: 0.7;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+.Img-logo{
+    margin-left: 30px;
+    padding-bottom: 20%;
+}
+.text-2{
+    margin-left: 70px;
+}
+.text-logo{
+    margin-left: 70px;
+}
+.list-items{
+    margin-top: -30px;
+
+}
+.list-items-1{
+    margin-top: 30px;
+}
+
+.menu-button{
+    width: 25px;
+    font-weight: bolder;
+    font-size: larger;
+    
+    /* margin-top: 10px; */
+}
+
+.button-icon{
+    background-color: orangered;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    gap: 15px;    
+}
+.menu-button-row{
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    margin-left: 30px;
+    margin-top: -30px;
+    height: 40px;
+ 
+}
+
+.plc-holder{
+    padding-right: 150px;
+  
+}
+
+.button-icon-2{
+    padding-right: 60px;
+
+}
+
+.menu-button-row-2{
+    display: flex;
+    gap: 2px;
+    padding-right: 70px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    
+}
+
+.glass-icon-2{
+    /* margin-bottom: 2px;
+    margin-top: 2px;  */
+/*  
+    margin-left: 0px;
+    color: orangered; */
+    padding-left: 60px;
+    background-color: orangered;
+}
+
+.Header{
+    background-color: #212A3E;
+    padding-bottom: 20px;
+    color: white;
+    margin-top: -10px;
+    padding-top: 5px;
+}
+
+.order img{
+    width: 30px;
+    height: 30px;
+}
+.order{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    
+}
+.shopping-bag{
+    border-radius: 50%;
+    background-color: orangered;
+    padding: 5px;
+}
+
+.order-text{
+    color: orangered;
+    
+
+}

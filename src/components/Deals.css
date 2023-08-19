@@ -1,0 +1,38 @@
+.DealsSection{
+    display: flex;
+    flex-direction: row;
+    float: right;
+    /* margin-left: 40px; */
+    margin-top: 3%;
+    margin-right: 2%;
+    justify-content: space-around;
+    overflow: hidden;
+}
+
+.DealsSection img{
+    width: 20%;
+}
+
+.Deals-Text{
+    margin-top: -15px;
+    margin-right: 15px;
+    margin-left: -20px;
+}
+.pricy {
+    color: orangered;
+}
+.quantity{
+    color: orangered;
+}
+.stocks{
+    display: flex;
+    flex-direction: row;
+    /* padding-bottom: -90px; */
+    justify-content: space-between;
+    /* margin-bottom: -80%; */
+    /* gap: 20px; */
+}
+.Num-Sold{
+    margin-left: -10%;
+    
+}

@@ -1,0 +1,40 @@
+.prod-top{
+    display: flex;
+    flex-direction: row;
+    margin-top: -53%;
+    margin-left: 20px;
+    
+    
+}
+
+.sp{
+    margin-top: 15px;
+    margin-left: 20px;
+    align-items: center;
+
+}
+.sp-dot{
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: 12px;
+    border-radius: 75%;
+    
+    
+}
+
+.sp button{
+    color: orangered;
+    background-color: orangered;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    border-color: orangered;   
+}
+
+.one{
+    padding-top: -10%;
+    padding-bottom: -10%;
+
+}

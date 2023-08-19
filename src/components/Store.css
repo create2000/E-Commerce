@@ -1,0 +1,71 @@
+.store-deals img{
+    width: 90%;
+    margin-bottom: 30px;
+    margin-top: -50px;
+    margin-left: 5px;
+}
+
+.StoredDeals img{
+    width: 90%;
+    margin-bottom: 30px;
+    margin-top: -50px;
+    margin-left: 5px;
+
+}
+
+.store-deals{
+   
+    display: flex;
+    flex-direction: row;
+    margin-left: 24%;
+    margin-right: 0%;
+    padding-right: 4%;
+    margin-top: 3%;
+
+}
+
+.st-texts{
+    font-size: small;
+    font-weight: bold;
+    margin-top: -70%;
+    margin-left: 30%;
+    
+    
+}
+
+.st-texts img{
+    width: 60%;
+    margin-bottom: 40px;
+    margin-top: -25px;
+    color: whitesmoke;
+}
+
+.store-items{
+        padding-left: 5px; /* Adjust as needed */        
+        padding-top: 70px;
+        padding-bottom: 70px;
+        margin-right: -15%;
+        border: 25px solid white; /* Adjust border size and color as needed */
+        display: inline-block; /* Keep images in a row if desired */
+        background-color: whitesmoke;     
+        
+}
+
+.txt-price{
+    color: orangered;
+    margin-left: 23%;
+    font-size: larger;
+    font-weight: bold;
+
+}
+
+.StoredDeals{
+    display: flex;
+    flex-direction: row;
+    margin-left: 24%;
+    margin-right: 0%;
+    padding-right: 4%;
+    margin-top: 3%;
+
+}
+

@@ -1,0 +1,32 @@
+.discount{
+    margin-top: -30%;
+    margin-right: 24%;
+    width: 52%;
+    display: flex;
+    padding-left: - 40px;
+}
+
+.ban-1{
+    float: right;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 25%;
+    margin-top: -30%;
+    gap: 35px;
+    margin-right: 20px;
+   
+}
+
+.Gift-1{
+    width: 73%;
+    margin-left: 24%;
+    margin-top: -20%;
+}
+
+.Interior-1{
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 20%;
+    height: 350px;
+}

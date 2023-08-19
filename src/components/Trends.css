@@ -1,0 +1,42 @@
+.Trends{
+    width: 73%;
+    margin-left: 25%;
+    margin-top: -5%;
+    height: 130px;
+    margin-right: px;
+}
+
+.Trends-lists{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-left: 39%;
+    color: grey;
+    font-size: small;
+}
+
+.Trends-Menu{
+    display: flex;
+    flex-direction: row;
+    margin-left: 25%;
+    margin-bottom: 1%;
+    align-items: center;
+}
+
+.Trends-button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color:#272829 ;
+    color: white;
+    font-weight: bolder;
+    word-spacing: 5px;
+    font-size: 15px;
+}
+.hr-line{
+    width: 73%;
+    margin-left: 25%;
+    margin-top: -1px;
+}
