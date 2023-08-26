@@ -101,6 +101,19 @@ export default function NewItems (){
 
                 </div>
 
+                <div>
+                <img src="./Bonus/lector.webp" alt="" className="lector" />
+                <h4 className='lector-text'>Biten demons lector in<br></br> henderit in vulp</h4>
+                <span className='lector-span'>September 25, 2018</span>
+                <p className='lector-comment'>0 comment</p>
+                
+                </div>
+
+                <div>
+                    <h4 className='Top'>TOP RATED</h4>
+                    <hr className='Top-hr'></hr>
+                </div>
+
                 </>
 
         

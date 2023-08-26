@@ -122,3 +122,35 @@
 .sp{
     margin-right: 20px;
 }
+
+.lector{
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 19%;
+}
+
+.lector-text{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.lector-span{
+    color: grey;
+    margin-left: 40px;
+    font-size: smaller;
+}
+
+.lector-comment{
+    color: grey;
+    margin-left: 70px;
+    font-size: small;
+}
+
+.Top-hr{
+    width: 18%;
+    margin-left: 40px;
+    margin-top: -10px;
+    border-color: orangered;
+}
+.Top{
+    margin-left: 40px;   
+}

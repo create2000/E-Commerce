@@ -10,6 +10,7 @@ import SideStore2 from './components2/SideStore2.jsx';
 import SideStore3 from './components2/SideStore3.jsx'; 
 import Bonuses from './components2/Bonuses.jsx';
 import NewItems from './components2/NewItems.jsx';
+import TopRated from './components2/TopRated.jsx';
 
   function App() {
   return (
@@ -183,6 +184,7 @@ import NewItems from './components2/NewItems.jsx';
     <SideStore3 />
     <Bonuses />
     <NewItems />
+    <TopRated />
 
     
 
