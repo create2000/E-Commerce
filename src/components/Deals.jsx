@@ -4,11 +4,12 @@ import './Deals.css'
 function Deals (props) {
     return(
         <>
-        
+        <div className='Done-deals'>
+
             <img src= {props.img} alt='' />
             <div className='Deals-Text'>
                 <h3>{props.items}</h3>
-                    <span className='pricy'><h3>{props.price}</h3></span>
+                    <h3 className='pricy'>{props.price}</h3>
                 <div className='stocks'>
                     <p>{props.Available}<span className='quantity'>{props.quantityLeft}</span></p>
                     <span ><p className='Num-Sold'>{props.unavailable}{props.quantitySold}</p></span>
@@ -19,6 +20,7 @@ function Deals (props) {
             </div>
 
         
+        </div>
         </>
         
     )

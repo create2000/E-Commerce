@@ -1,6 +1,7 @@
 import React from 'react';
-// import HomeLayout from './HomeLayout';
 import './FirstSection.css';
+// import Register from "../components3/Register";
+import { Link } from 'react-router-dom';
 
 
 
@@ -31,7 +32,9 @@ function FirstSection () {
           <li>Shop <span className='arrow'>&#9660;</span></li>
           <li>Collection <span className='arrow'>&#9660;</span></li>
           <li>Marketplace <span className='arrow'>&#9660;</span></li>
-           <span className='sign-up'>Login or Register</span>
+           <span className='sign-up'> <Link to ="/Login" className='sign-login'>Login</Link> or <Link to ="/Register" className='sign-login'>Register</Link></span>
+
+            
         </ul> 
 
         </div>
@@ -45,7 +48,7 @@ function FirstSection () {
            <div></div>
 
            <div className='menu-button-row-2'>
-           <button className='button-icon-2'>All categories</button> 
+           <button className='button-icon-2'>All Category</button> 
            <input className='plc-holder' type='text' placeholder='Search'></input>
            {/* <img src='./mag-glass.png'  alt='' className='glass-icon-2' /> */}
            <span className='glass-icon-2'></span>
@@ -64,10 +67,6 @@ function FirstSection () {
         </div>
         </div>
           
-        
-
-      
-
       </>
   );
  
